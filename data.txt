@@ -1,0 +1,11 @@
+hadoop
+hadoop
+flink
+flume
+flume
+1|董长春|18|male
+2|刘昱江|17|male
+3|张慎政|16|female
+4|张久军|15|male
+5|刘沛霞|14|female
+6|王海涛|13|male
